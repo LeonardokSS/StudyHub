@@ -1,0 +1,2959 @@
+{
+  "apostilas": [
+    {
+      "id": "_u2e089hqmq0021r2",
+      "nome": "Apostila 2",
+      "descricao": "",
+      "cor": "#059669",
+      "criadoEm": "2026-06-04T21:20:46.430Z",
+      "materias": [
+        {
+          "id": "_l3lt0l12mq0021r3",
+          "nome": "Geografia",
+          "prioridade": "nenhuma",
+          "criadoEm": "2026-06-04T21:20:46.431Z",
+          "conteudos": [
+            {
+              "id": "_lucji8qqmq0021r3",
+              "parte": "L",
+              "aula": "5",
+              "titulo": "A questão ambiental (I)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_lkw1qrtcmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_4bz1mfesmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_g704emvcmq0021r3",
+              "parte": "L",
+              "aula": "6",
+              "titulo": "A questão ambiental (II)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_joli5a2qmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_9mhb3fpymq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_4jb3f269mq0021r3",
+              "parte": "L",
+              "aula": "7",
+              "titulo": "A questão ambiental (III)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_fpvjsie8mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_zpv39t28mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_t0d7xit2mq0021r3",
+              "parte": "L",
+              "aula": "8",
+              "titulo": "A questão ambiental (IV)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_jg32v8l7mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_kzjy8i91mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_0vwy1r2fmq0021r3",
+              "parte": "M",
+              "aula": "5",
+              "titulo": "Cartografia (I)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_aqw0zpyfmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_dfis7k29mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_nqg7i9c8mq0021r3",
+              "parte": "M",
+              "aula": "6",
+              "titulo": "Cartografia (II)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_hd3mnw51mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_16onxpmtmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_jk3i7885mq0021r3",
+              "parte": "M",
+              "aula": "7",
+              "titulo": "Pedologia (I)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_5f91j62qmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_1iy4txn9mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_6fdrjx1emq0021r3",
+              "parte": "M",
+              "aula": "8",
+              "titulo": "Pedologia (II)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_k25qx05ymq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_jsd0alj8mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "_bj50qiwgmq0021r3",
+          "nome": "História",
+          "prioridade": "nenhuma",
+          "criadoEm": "2026-06-04T21:20:46.431Z",
+          "conteudos": [
+            {
+              "id": "_nt0ura3xmq0021r3",
+              "parte": "L",
+              "aula": "5",
+              "titulo": "Impérios Romano, Bizantino e Franco",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_9hkvvhcxmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_mo2sh6kcmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_jry1zgk3mq0021r3",
+              "parte": "L",
+              "aula": "6",
+              "titulo": "Islã e feudalismo",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_gulfrpcbmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_fe9cobaomq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_8jv1d9q9mq0021r3",
+              "parte": "L",
+              "aula": "7",
+              "titulo": "Cultura medieval e Baixa Idade Média",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_kid91o5tmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_nfwgti9omq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_7trnugvvmq0021r3",
+              "parte": "L",
+              "aula": "8",
+              "titulo": "Renascimento",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_3ubcuwc9mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_i8usyqohmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_5nuc7hsvmq0021r3",
+              "parte": "M",
+              "aula": "5",
+              "titulo": "América Portuguesa: política, economia e território (séc. XVI-XVII)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_5v1qsi7ymq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_1rih82lzmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_vqd3faq0mq0021r3",
+              "parte": "M",
+              "aula": "6",
+              "titulo": "América Portuguesa: domínios estrangeiros (séc. XVI-XVII) e economia e território (séc. XVIII)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_wgv4dkbmmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_alaytgx5mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_tcnhkn59mq0021r3",
+              "parte": "M",
+              "aula": "7",
+              "titulo": "América Portuguesa: sociedade e cultura, conflitos e revoltas (séc. XVII-XVIII)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_9w5hcjt1mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_j985p6kamq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_8rcok973mq0021r3",
+              "parte": "M",
+              "aula": "8",
+              "titulo": "América Portuguesa: política no séc. XVIII e transferência da Corte portuguesa para o Brasil (1808)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_chcjsoyfmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_kcj2wwmymq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "_fugdzthomq0021r3",
+          "nome": "Matemática",
+          "prioridade": "nenhuma",
+          "criadoEm": "2026-06-04T21:20:46.431Z",
+          "conteudos": [
+            {
+              "id": "_xx0u7vefmq0021r3",
+              "parte": "L",
+              "aula": "5",
+              "titulo": "Proporção direta e inversa entre variáveis",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_pnicd1i8mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_rznepvvamq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_rrqem0lxmq0021r3",
+              "parte": "L",
+              "aula": "6",
+              "titulo": "Equações exponenciais",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_uanhkyivmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_6syjxskwmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_cdjqo6etmq0021r3",
+              "parte": "L",
+              "aula": "7-8",
+              "titulo": "Logaritmos",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_7qvt8n5wmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_uxbrkucumq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_twnx94r3mq0021r3",
+              "parte": "M",
+              "aula": "5",
+              "titulo": "Resolução de problemas que recaem em equações polinomiais",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_ms208bc9mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_832drslfmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_w0bzomgpmq0021r3",
+              "parte": "M",
+              "aula": "6",
+              "titulo": "Introdução às funções",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_z703m673mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_z925u4gomq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_yf2dsa3kmq0021r3",
+              "parte": "M",
+              "aula": "7",
+              "titulo": "Função afim e função composta",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_o0tlf8blmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_og0h5pydmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_qwbdyqlkmq0021r3",
+              "parte": "M",
+              "aula": "8",
+              "titulo": "Introdução às porcentagens",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_qdm78yowmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_fkhsllwbmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_q77sy0oemq0021r3",
+              "parte": "N",
+              "aula": "5",
+              "titulo": "Princípio da Casa dos Pombos",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_wspsv71omq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_77rhb7tymq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_nnme5pzpmq0021r3",
+              "parte": "N",
+              "aula": "6",
+              "titulo": "Sequências e progressões aritméticas (PA)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_lp6dcmgtmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_gmx7e9ppmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_5sdwxu7zmq0021r3",
+              "parte": "N",
+              "aula": "7",
+              "titulo": "Soma dos termos de uma PA",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_zk3w10ermq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_y4h22hltmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_7l492qmamq0021r3",
+              "parte": "N",
+              "aula": "8",
+              "titulo": "Progressões geométricas (PG)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_8yjn2jcimq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_hk162im3mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_yxghibr6mq0021r3",
+              "parte": "O",
+              "aula": "5",
+              "titulo": "Teorema de Tales e relações métricas no triângulo retângulo",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_acystcfpmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_ojob2u9gmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_ds2d47usmq0021r3",
+              "parte": "O",
+              "aula": "6",
+              "titulo": "Relações trigonométricas no triângulo retângulo",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_svvt95hgmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_6gmadmtzmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_i0bqb03rmq0021r3",
+              "parte": "O",
+              "aula": "7",
+              "titulo": "Teoremas em triângulos quaisquer",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_wo53vs2imq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_2a60zk2gmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_d7z2037pmq0021r3",
+              "parte": "O",
+              "aula": "8",
+              "titulo": "Pontos notáveis em um triângulo",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_phyebkqsmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_bn0wx7zumq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "_qnsve81tmq0021r3",
+          "nome": "Português",
+          "prioridade": "nenhuma",
+          "criadoEm": "2026-06-04T21:20:46.431Z",
+          "conteudos": [
+            {
+              "id": "_omc1zeyfmq0021r3",
+              "parte": "L",
+              "aula": "5",
+              "titulo": "Romantismo",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_4uoyzqwqmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_nvekgir6mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_skq4j72jmq0021r3",
+              "parte": "L",
+              "aula": "6",
+              "titulo": "Trovadorismo, Romantismo e Indianismo",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_ky6eb07smq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_8jyc9cnemq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_gsky2l34mq0021r3",
+              "parte": "L",
+              "aula": "7",
+              "titulo": "Realismo em Portugal",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_36wosj47mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_bzdce884mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_5q5zjmnomq0021r3",
+              "parte": "L",
+              "aula": "8",
+              "titulo": "Realismo no Brasil",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_encysz2zmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_5kmfu6kvmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_0kasf3ewmq0021r3",
+              "parte": "M",
+              "aula": "5",
+              "titulo": "Coesão textual",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_x962q10jmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_vewpq2vnmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_j4gsa8immq0021r3",
+              "parte": "M",
+              "aula": "6",
+              "titulo": "Introdução e conclusão: a \"moldura\" do texto",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_3lyyhsb7mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_twms0468mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_ouu2svdbmq0021r3",
+              "parte": "M",
+              "aula": "7",
+              "titulo": "Recursos argumentativos: dados numéricos e fatos jornalísticos e históricos",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_k7sps5aqmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_7fzk6lgimq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_glg2ep3cmq0021r3",
+              "parte": "M",
+              "aula": "8",
+              "titulo": "Argumento de autoridade, contra-argumentação e progressão lógica da argumentação",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_pktgo45nmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_cnphdutsmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_moxj4pmzmq0021r3",
+              "parte": "N",
+              "aula": "5",
+              "titulo": "Figuras de linguagem semânticas (I)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_65mxcohomq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_o7mx4kodmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_32mhmhclmq0021r3",
+              "parte": "N",
+              "aula": "6",
+              "titulo": "Figuras de linguagem semânticas (II)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_f1oie3a1mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_lp7uhxabmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_82scsz6bmq0021r3",
+              "parte": "N",
+              "aula": "7",
+              "titulo": "Interpretação de imagens e gráficos: linguagem verbal e visual",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_of4p36a4mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_ffsgt5vcmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_xc4xwremmq0021r3",
+              "parte": "N",
+              "aula": "8",
+              "titulo": "Gêneros textuais",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_kfigxix1mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_cz64xkkkmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_wdruof2emq0021r3",
+              "parte": "O",
+              "aula": "5",
+              "titulo": "Regência (I)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_avwvxh2gmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_0n66st1wmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_cd6xtvo8mq0021r3",
+              "parte": "O",
+              "aula": "6",
+              "titulo": "Regência (II)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_9yjwayaymq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_lsbzuiqmmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_l22cc869mq0021r3",
+              "parte": "O",
+              "aula": "7",
+              "titulo": "Crase",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_t2i3ark8mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_m2f3x7hamq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_kpn1499xmq0021r3",
+              "parte": "O",
+              "aula": "8",
+              "titulo": "Regência do pronome relativo",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_zvfe4dokmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_7dy7znfkmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "_86q5bv63mq0021r3",
+          "nome": "Química",
+          "prioridade": "nenhuma",
+          "criadoEm": "2026-06-04T21:20:46.431Z",
+          "conteudos": [
+            {
+              "id": "_x8uhslk0mq0021r3",
+              "parte": "G",
+              "aula": "5",
+              "titulo": "Tabela periódica",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_jpya6ig6mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_c8a77vzrmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_xxyfzleamq0021r3",
+              "parte": "G",
+              "aula": "6",
+              "titulo": "Propriedades periódicas",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_4z434mp5mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_62nc0auimq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_7apwlxfdmq0021r3",
+              "parte": "G",
+              "aula": "7",
+              "titulo": "Ligação iônica",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_anuty4ffmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_xb9o1m0gmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_lbq07x53mq0021r3",
+              "parte": "G",
+              "aula": "8",
+              "titulo": "Ligações covalentes",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_td18bf4jmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_wr4wtbnbmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_yvp7puvnmq0021r3",
+              "parte": "H",
+              "aula": "5",
+              "titulo": "Nomenclatura de hidrocarbonetos cíclicos e classes de hidrocarbonetos",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_mcg0d86hmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_jq7trn9omq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_j9ingwvlmq0021r3",
+              "parte": "H",
+              "aula": "6",
+              "titulo": "Funções orgânicas (I)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_8slf8j9imq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_95nu9u2wmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_w16j28cvmq0021r3",
+              "parte": "H",
+              "aula": "7",
+              "titulo": "Funções orgânicas (II)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_kjjyag87mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_2wars7u6mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_k1503tf0mq0021r3",
+              "parte": "H",
+              "aula": "8",
+              "titulo": "Funções orgânicas (III)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_axeaohp2mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_ynkhobesmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_wxj7oehpmq0021r3",
+              "parte": "I",
+              "aula": "5",
+              "titulo": "Gases ideais",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_4q22wwpvmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_x5a16tc9mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_ri1is0bnmq0021r3",
+              "parte": "I",
+              "aula": "6",
+              "titulo": "Misturas gasosas",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_82jfes7rmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_rcchoszkmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_kk7hql7fmq0021r3",
+              "parte": "I",
+              "aula": "7",
+              "titulo": "Estequiometria básica",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_9g17iw0cmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_yujyvf3jmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_158glga5mq0021r3",
+              "parte": "I",
+              "aula": "8",
+              "titulo": "Estequiometria avançada (I)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_me8lrkd2mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_jsu8xrbimq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_hpo1ze0imq0021r3",
+              "parte": "J",
+              "aula": "5",
+              "titulo": "Teoria eletrolítica de Arrhenius",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_otckomtjmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_5l2iw86cmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_zjljbipzmq0021r3",
+              "parte": "J",
+              "aula": "6",
+              "titulo": "Reações inorgânicas (I)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_2rztppxdmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_3fo9dkhnmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_y0pvs83jmq0021r3",
+              "parte": "J",
+              "aula": "7",
+              "titulo": "Reações inorgânicas (II)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_lfkegxb3mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_1y7xq4cnmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_cx3eef9umq0021r3",
+              "parte": "J",
+              "aula": "8",
+              "titulo": "Reações inorgânicas (III)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_e7t6mvhsmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_h1we47q6mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "_j6wz8wo9mq0021r3",
+          "nome": "Sociologia e Filosofia",
+          "prioridade": "nenhuma",
+          "criadoEm": "2026-06-04T21:20:46.431Z",
+          "conteudos": [
+            {
+              "id": "_wxseit7dmq0021r3",
+              "parte": "A",
+              "aula": "5",
+              "titulo": "Max Weber",
+              "status": "estudando",
+              "prioridade": "media",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_7orzuaxpmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "concluido",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_gkbx4ii2mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "concluido",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_rk14z060mq10k6k8",
+                  "nome": "Propostos 4 e 5",
+                  "questoes": 2,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-05T14:22:38.648Z"
+                },
+                {
+                  "id": "_2yvnzt38mq10nw69",
+                  "nome": "Aula 1",
+                  "questoes": 1,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-05T14:25:31.809Z"
+                }
+              ]
+            },
+            {
+              "id": "_ect0zfpmmq0021r3",
+              "parte": "A",
+              "aula": "6",
+              "titulo": "Aristóteles",
+              "status": "estudando",
+              "prioridade": "alta",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_hb0d6pfxmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "concluido",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_c1x4tovcmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "concluido",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_khjv906tmq1230s8",
+                  "nome": "Propostos 14 15 17",
+                  "questoes": 3,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-05T15:05:17.240Z"
+                }
+              ]
+            },
+            {
+              "id": "_u6eyn3bdmq0021r3",
+              "parte": "A",
+              "aula": "7",
+              "titulo": "Indústria cultural",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_94imjwyomq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_io13b3o4mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_ngii5xtomq0021r3",
+              "parte": "A",
+              "aula": "8",
+              "titulo": "Filosofias helenísticas",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_bnwrwl6vmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_lf3721q0mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "_47jocmo3mq0021r3",
+          "nome": "Física",
+          "prioridade": "nenhuma",
+          "criadoEm": "2026-06-04T21:20:46.431Z",
+          "conteudos": [
+            {
+              "id": "_10dq2ymdmq0021r3",
+              "parte": "G",
+              "aula": "5",
+              "titulo": "Princípio Fundamental da Dinâmica – Princípio da Ação e Reação",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_061xv8v6mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_tbxdib6vmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_787yslurmq0021r3",
+              "parte": "G",
+              "aula": "6",
+              "titulo": "Tipos de interações entre corpos",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_dr36a9namq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_cmyn1wc0mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_99tmez8mmq0021r3",
+              "parte": "G",
+              "aula": "7",
+              "titulo": "Aplicações em Dinâmica",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_0fx4202rmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_o91wzohkmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_4qnmjp67mq0021r3",
+              "parte": "G",
+              "aula": "8",
+              "titulo": "Deformações elásticas",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_to59wzrrmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_6e2ymchumq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_as38gyarmq0021r3",
+              "parte": "H",
+              "aula": "5",
+              "titulo": "Queda livre – Lançamento vertical no vácuo",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_0q0cwd96mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_gawskb3amq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_ge53tu5emq0021r3",
+              "parte": "H",
+              "aula": "6",
+              "titulo": "Movimento circular uniforme (MCU)",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_3c1w37pzmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_za3m2660mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_9zygacojmq0021r3",
+              "parte": "H",
+              "aula": "7",
+              "titulo": "Casos especiais de MCU",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_wbho1bsrmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_j4cnrli6mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_fjt01bb3mq0021r3",
+              "parte": "H",
+              "aula": "8",
+              "titulo": "Gráficos de Cinemática",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_vvr4wfimmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_unpkliurmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_rbltveqwmq0021r3",
+              "parte": "I",
+              "aula": "5",
+              "titulo": "Dioptro plano – Lâminas de faces paralelas",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_bj1fp1r2mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_bt2aoa77mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_amcq5xc9mq0021r3",
+              "parte": "I",
+              "aula": "6",
+              "titulo": "Prismas",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_qajkcco5mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_7umogjxhmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_ta0iput2mq0021r3",
+              "parte": "I",
+              "aula": "7",
+              "titulo": "Espelhos esféricos – Determinação gráfica de imagens",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_wde1jqszmq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_cbvvai69mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_nq5ds1zumq0021r3",
+              "parte": "I",
+              "aula": "8",
+              "titulo": "Lentes esféricas – Determinação gráfica de imagens",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_g0n5pzd2mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_tu7rsx2cmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_tdfar7odmq0021r3",
+              "parte": "J",
+              "aula": "5",
+              "titulo": "Calor latente",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_ahi0h5c4mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_s3hqlaq2mq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_fnsfajsvmq0021r3",
+              "parte": "J",
+              "aula": "6",
+              "titulo": "Sistemas termicamente isolados com mudança de estado",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_mw8hm0f0mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_le4pfpsrmq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_xr9bsmrkmq0021r3",
+              "parte": "J",
+              "aula": "7",
+              "titulo": "Transmissão de calor",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.431Z",
+              "exercicios": [
+                {
+                  "id": "_qgrhei77mq0021r3",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                },
+                {
+                  "id": "_ugbol59ymq0021r3",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.431Z"
+                }
+              ]
+            },
+            {
+              "id": "_vt1x7qdzmq0021r4",
+              "parte": "J",
+              "aula": "8",
+              "titulo": "Carga elétrica e matéria",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_v0wf70yemq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_r96x338rmq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "_e3tpstt4mq0021r4",
+          "nome": "Biologia",
+          "prioridade": "nenhuma",
+          "criadoEm": "2026-06-04T21:20:46.432Z",
+          "conteudos": [
+            {
+              "id": "_luooq537mq0021r4",
+              "parte": "G",
+              "aula": "5",
+              "titulo": "Tecidos vegetais",
+              "status": "concluido",
+              "prioridade": "baixa",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_ecj98u2mmq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_5w31vs4amq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_x0xrcfrpmq0021r4",
+              "parte": "G",
+              "aula": "6",
+              "titulo": "Órgãos vegetais",
+              "status": "concluido",
+              "prioridade": "baixa",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_lkn47ju2mq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_gq6uvsdkmq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_a0quus49mq0021r4",
+              "parte": "G",
+              "aula": "7-8",
+              "titulo": "Ciclos da matéria",
+              "status": "concluido",
+              "prioridade": "media",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_3mrqzs76mq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_3zk9zwdrmq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_rgvxxf46mq0021r4",
+              "parte": "H",
+              "aula": "5",
+              "titulo": "Vitaminas",
+              "status": "concluido",
+              "prioridade": "baixa",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_8yiuwuglmq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_19ygo244mq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_5q6xx7gymq0021r4",
+              "parte": "H",
+              "aula": "6",
+              "titulo": "Carboidratos",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_2h2y76l4mq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_867704cumq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_n75svajymq0021r4",
+              "parte": "H",
+              "aula": "7",
+              "titulo": "Lipídeos",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_zczyv7jrmq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_vq3eqo9nmq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_lwr579bsmq0021r4",
+              "parte": "H",
+              "aula": "8",
+              "titulo": "Proteínas e enzimas",
+              "status": "pendente",
+              "prioridade": "nenhuma",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_vrm8h71wmq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_hhz26xe2mq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_rsq5jtkmmq0021r4",
+              "parte": "I",
+              "aula": "5",
+              "titulo": "Origem da vida",
+              "status": "concluido",
+              "prioridade": "baixa",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_r7lot205mq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_5s4upbrhmq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_4zdxd8mkmq0021r4",
+              "parte": "I",
+              "aula": "6",
+              "titulo": "Teorias da evolução",
+              "status": "concluido",
+              "prioridade": "media",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_74kf9xgumq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_mv8epkwumq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_hnm73zwbmq0021r4",
+              "parte": "I",
+              "aula": "7",
+              "titulo": "Probabilidades e alelos múltiplos",
+              "status": "concluido",
+              "prioridade": "alta",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_aua873r4mq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_5qmrx075mq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_iu6bs1y6mq0021r4",
+              "parte": "I",
+              "aula": "8",
+              "titulo": "Sistemas sanguíneos ABO, MN, Rh e eritroblastose fetal",
+              "status": "concluido",
+              "prioridade": "alta",
+              "observacoes": "",
+              "dataConclusao": "2026-06-04T21:45:37.283Z",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_woc66f6imq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "concluido",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_1ubsipifmq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "concluido",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_8kvvb8v0mq0021r4",
+              "parte": "J",
+              "aula": "5",
+              "titulo": "Nematoides e verminoses",
+              "status": "concluido",
+              "prioridade": "media",
+              "observacoes": "",
+              "dataConclusao": "2026-06-04T21:45:58.064Z",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_azfs7311mq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "concluido",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_b7gee688mq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "concluido",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_ic8wegc9mq0021r4",
+              "parte": "J",
+              "aula": "6",
+              "titulo": "Moluscos e anelídeos",
+              "status": "concluido",
+              "prioridade": "media",
+              "observacoes": "",
+              "dataConclusao": "2026-06-05T12:38:22.235Z",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_ezhkqp5zmq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "concluido",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_z48wejakmq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "concluido",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                }
+              ]
+            },
+            {
+              "id": "_mz0u9yohmq0021r4",
+              "parte": "J",
+              "aula": "7",
+              "titulo": "Artrópodes (I)",
+              "status": "estudando",
+              "prioridade": "alta",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_9duxw8qgmq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 4,
+                  "status": "estudando",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_tavfau27mq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "concluido",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_gbdh9qe3mq0yi7fq",
+                  "nome": "1 Aula (fuvest)",
+                  "questoes": 1,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-05T13:25:07.238Z"
+                }
+              ]
+            },
+            {
+              "id": "_iywge9a1mq0021r4",
+              "parte": "J",
+              "aula": "8",
+              "titulo": "Artrópodes (II), equinodermos e introdução aos cordados",
+              "status": "estudando",
+              "prioridade": "alta",
+              "observacoes": "",
+              "dataConclusao": "",
+              "criadoEm": "2026-06-04T21:20:46.432Z",
+              "exercicios": [
+                {
+                  "id": "_ilzyzqwemq0021r4",
+                  "nome": "Exercícios de Aula",
+                  "questoes": 5,
+                  "resolvidas": 4,
+                  "status": "estudando",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_qps8in7lmq0021r4",
+                  "nome": "Exercícios Propostos",
+                  "questoes": 5,
+                  "resolvidas": 5,
+                  "status": "concluido",
+                  "criadoEm": "2026-06-04T21:20:46.432Z"
+                },
+                {
+                  "id": "_dwnocwz8mq0ytd43",
+                  "nome": "Propostos 96 95 93",
+                  "questoes": 3,
+                  "resolvidas": 0,
+                  "status": "pendente",
+                  "criadoEm": "2026-06-05T13:33:47.811Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
