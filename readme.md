@@ -18,7 +18,7 @@
 <br>
 Visão geral de cada apostila, com progresso de conteúdos e questões.
 
-![Tela de Apostilas](screenshots\apostilas.png)
+![Tela de Apostilas](./screenshots\apostilas.png)
 
 </td>
 <td width="50%">
