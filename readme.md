@@ -18,7 +18,7 @@
 <br>
 Visão geral de cada apostila, com progresso de conteúdos e questões.
 
-![Tela de Apostilas](./screenshots\apostilas.png)
+![Tela de Apostilas](./screenshots/apostilas.png)
 
 </td>
 <td width="50%">
@@ -128,3 +128,8 @@ Aparência, exportação, backup/restauração e reset dos dados (modo escuro).
 - [ ] Exportação em PDF dos relatórios de progresso
 - [ ] Suporte a múltiplos perfis/usuários
 
+---
+
+## 📄 Licença
+
+Defina aqui a licença do projeto (ex.: MIT, GPL-3.0) antes de publicar.
