@@ -1,112 +1,135 @@
-# 📚 StudyHub — Controle de Estudos
+# 📚 StudyHub
 
-> Um painel pessoal, leve e offline-first para organizar apostilas, matérias, conteúdos e exercícios de estudo — feito para quem está se preparando para o vestibular.
+**StudyHub** é uma aplicação web single-page, 100% front-end, para organizar seus estudos de ponta a ponta: do planejamento de apostilas e matérias até o acompanhamento do tempo dedicado a cada sessão. Tudo roda direto no navegador, sem servidor e sem necessidade de instalação.
 
-![status](https://img.shields.io/badge/status-em%20uso-2a7d5f) ![tipo](https://img.shields.io/badge/tipo-app%20local-8b5cf6) ![dados](https://img.shields.io/badge/dados-100%25%20locais-d49a3a)
-
----
-
-## ✨ Visão Geral
-
-O **StudyHub** é um aplicativo de página única (single-file HTML/CSS/JS) que roda direto no navegador, sem servidor, sem login e sem enviar nada para a nuvem. Todos os seus dados — apostilas, matérias, conteúdos, exercícios e progresso — ficam salvos localmente no seu próprio dispositivo.
-
-Ele foi pensado para resolver um problema simples: **estudar para o vestibular gera muito conteúdo espalhado**, e é fácil perder a visão de conjunto — o que já foi visto, o que está pendente, o que é prioridade e o que precisa de revisão.
+![Status](https://img.shields.io/badge/status-ativo-2a7d5f)
+![Tipo](https://img.shields.io/badge/tipo-single--file%20HTML-blue)
+![Licença](https://img.shields.io/badge/licença-a%20definir-lightgrey)
 
 ---
 
-## 🗂️ Estrutura de Dados
+## 🖼️ Capturas de Tela
 
-O sistema organiza tudo em uma hierarquia de 4 níveis:
+<table>
+<tr>
+<td width="50%">
 
-```
-📘 Apostila
- └── 📚 Matéria           (ex: Biologia, Química, Matemática...)
-      └── 📝 Conteúdo      (ex: "A questão ambiental (I)", Aula 5, Parte L)
-           └── 📋 Exercício (ex: "Exercícios de Aula" — 5 questões, 3 resolvidas)
-```
+**Minhas Apostilas**
+<br>
+Visão geral de cada apostila, com progresso de conteúdos e questões.
 
-Cada nível carrega suas próprias informações:
+![Tela de Apostilas](screenshots\apostilas.png)
 
-| Nível | Campos principais |
-|---|---|
-| **Apostila** | nome, descrição, cor, data de criação |
-| **Matéria** | nome, **prioridade** (alta / média / baixa / nenhuma) |
-| **Conteúdo** | parte, aula, título, status, **prioridade**, observações, data de conclusão, marcação de revisão |
-| **Exercício** | nome, nº de questões, nº resolvidas, status |
+</td>
+<td width="50%">
 
----
+**Plano Semanal**
+<br>
+Organização das sessões de estudo ao longo da semana, com totais de sessões, minutos e progresso.
 
-## 🚦 Prioridades e Status
+![Tela de Plano Semanal](./screenshots/plano-semanal.png)
 
-- **Prioridade** (`alta` 🔴 · `media` 🟡 · `baixa` 🔵 · `nenhuma` ⚪) indica o quão recorrente/importante aquele conteúdo costuma ser em provas de vestibular.
-- **Status** (`pendente` · `estudando` · `concluido`) acompanha o andamento real do estudo.
-- **🔖 Revisar depois** é uma marcação independente — não interfere no progresso nem na prioridade, só sinaliza "quero voltar aqui".
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+**Estatísticas Gerais**
+<br>
+Tempo de estudo, sequência de dias, últimos 7 dias e sessões recentes (modo escuro).
 
-## 🧭 Navegação do App
+![Tela de Estatísticas](./screenshots/estatisticas.png)
 
-| Tela | O que mostra |
-|---|---|
-| **📚 Apostilas** | Cards com todas as apostilas, progresso geral e atalho para revisão |
-| **📘 Apostila** | Matérias daquela apostila, gráficos de progresso (rosca + barras), ordenadas por prioridade |
-| **📖 Matéria** | Conteúdos agrupados por "parte", ordenados por prioridade e número da aula |
-| **📝 Conteúdo** | Detalhes completos + lista de exercícios com checkbox animado para marcar questões resolvidas |
-| **📈 Estatísticas** | Ranking geral de apostilas e de matérias por % de conclusão |
-| **📥 Importações** | Importa dados colando texto simples ou JSON |
-| **⚙️ Configurações** | Exportar, fazer backup e restaurar dados |
+</td>
+<td width="50%">
 
----
+**Configurações**
+<br>
+Aparência, exportação, backup/restauração e reset dos dados (modo escuro).
 
-## 💾 Backup e Exportação — por Apostila
+![Tela de Configurações](./screenshots/configuracoes.png)
 
-Diferente de um backup único e genérico, o StudyHub **gera um arquivo `.json` separado para cada apostila**:
-
-```
-studyhub_backup_apostila_2_2026-07-05.json
-studyhub_backup_apostila_etapa_x4_2026-07-05.json
-```
-
-Isso evita misturar apostilas diferentes em um único arquivo e facilita:
-- Guardar cada apostila isoladamente
-- Restaurar seletivamente
-- Compartilhar apenas uma apostila específica, se quiser
-
-A restauração aceita **múltiplos arquivos ao mesmo tempo** — basta selecionar todos os backups e o sistema funde tudo de volta, apostila por apostila, sem duplicar conteúdos já existentes.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔍 Busca e Filtros
+## ✨ Funcionalidades
 
-A barra de pesquisa cobre apostilas, matérias, conteúdos e exercícios simultaneamente, e pode ser combinada com filtros de:
-- Apostila específica
-- Prioridade (alta / média / baixa / nenhuma)
-- Status (pendente / estudando / concluído)
-- Marcação de revisão
+### 🗂️ Organização hierárquica de conteúdo
+- **Apostilas** → **Matérias** → **Conteúdos** → **Exercícios**, com cores personalizadas para cada apostila.
+- Cada conteúdo possui parte, número da aula, título, status (**pendente**, **estudando**, **concluído**) e observações.
+- Marcação de **prioridade** (baixa, média, alta) tanto em matérias quanto em conteúdos individuais.
+- Sinalização de conteúdos para **revisão posterior** 🔖, com destaque visual e contagem por matéria.
+- Controle de exercícios por conteúdo, com número de questões propostas e resolvidas.
+
+### ⏱️ Timer de estudo integrado
+- Barra de cronômetro fixa, com play/pause/stop/reset e opção de minimizar.
+- Sessões vinculadas a um conteúdo específico, com rótulo visível durante o estudo.
+- Estado do timer persiste no `localStorage`, sobrevivendo a recarregamentos de página.
+- Feedback visual animado (pulso) enquanto uma sessão está em andamento.
+
+### 📅 Plano Semanal
+- Tela dedicada para organizar sessões de estudo planejadas ao longo da semana.
+- Criação e edição de sessões vinculadas a matérias/conteúdos.
+
+### 📊 Estatísticas e gráficos
+- Painel com tempo total de estudo, sessões recentes e gráfico dos últimos 7 dias.
+- Gráficos de progresso geral (donut) e progresso por matéria/apostila (barras).
+- Ranking de apostilas e matérias por desempenho/progresso.
+
+### 🔍 Busca global
+- Campo de pesquisa com debounce que varre apostilas, matérias e conteúdos simultaneamente.
+- Resultados exibem status, prioridade e sinalizações de revisão, com atalho direto para o conteúdo.
+
+### 🔄 Importação e exportação de dados
+- **Importação por texto**: cole um texto estruturado (ex.: `APOSTILA 1`, matérias em maiúsculas, `PARTE L`, `Aula 5: ...`) e o sistema converte automaticamente em apostilas/matérias/conteúdos.
+- **Importação/exportação via JSON**, com pré-visualização antes de confirmar.
+- **Backup e restauração** completos, gerando um arquivo por apostila.
+- Botão de **reset total** dos dados, com confirmação de segurança.
+
+### 🎨 Interface e experiência
+- **Modo claro/escuro** com alternância via toggle, preferência salva no `localStorage`.
+- Tipografia cuidada (Syne + Lora via Google Fonts) e identidade visual própria.
+- Layout responsivo com sidebar de navegação e busca também no mobile.
+- Modais reutilizáveis para todas as ações de criação/edição (apostilas, matérias, conteúdos, exercícios, sessões).
+- Estados vazios (*empty states*) amigáveis para guiar o primeiro uso.
+
+### 💾 Persistência local
+- Todos os dados são armazenados no **`localStorage`** do navegador — não há backend, banco de dados ou envio de informações para servidores externos.
 
 ---
 
-## 🎨 Aparência
+## 🚀 Como usar
 
-- Tema **claro** e **escuro**, com transição suave e alternância pela sidebar.
-- Cada apostila tem uma cor de identidade própria, usada em barras de progresso, gráficos e destaques.
-- Totalmente responsivo — funciona bem em desktop e celular (com menu retrátil).
+1. Baixe o arquivo `studyhub_v2.html`.
+2. Abra-o em qualquer navegador moderno (Chrome, Firefox, Edge, Safari).
+3. Crie sua primeira apostila e comece a organizar suas matérias e conteúdos.
+4. (Opcional) Importe dados existentes via texto ou JSON na tela de **Importações**.
 
----
-
-## 🔒 Privacidade
-
-Nenhum dado sai do seu navegador. Não há conta, login ou envio para servidores externos — tudo vive no `localStorage` do dispositivo, com exportação manual quando você quiser guardar uma cópia em arquivo.
+> 💡 Como é um arquivo único e estático, também pode ser hospedado facilmente em GitHub Pages, Netlify, Vercel ou qualquer servidor de arquivos estáticos.
 
 ---
 
-## 🛠️ Stack Técnica
+## 🛠️ Tecnologias
 
-- **HTML + CSS + JavaScript puro** (zero frameworks, zero build step)
-- Fontes: [Syne](https://fonts.google.com/specimen/Syne) (títulos) + [Lora](https://fonts.google.com/specimen/Lora) (texto)
-- Gráficos desenhados via `<canvas>` nativo (sem bibliotecas externas)
-- Armazenamento via `localStorage`, com import/export em JSON
+- **HTML5 + CSS3** (variáveis CSS para temas claro/escuro)
+- **JavaScript puro (Vanilla JS)** — sem frameworks ou dependências de build
+- **Google Fonts** (Syne, Lora)
+- **localStorage** para persistência de dados
 
 ---
 
-<p align="center"><i>Feito para organizar a reta final antes do vestibular — um conteúdo de cada vez. 📖</i></p>
+## 📌 Roadmap sugerido
+
+- [ ] Sincronização em nuvem (opcional)
+- [ ] Notificações/lembretes de estudo
+- [ ] Exportação em PDF dos relatórios de progresso
+- [ ] Suporte a múltiplos perfis/usuários
+
+---
+
+## 📄 Licença
+
+Defina aqui a licença do projeto (ex.: MIT, GPL-3.0) antes de publicar.
